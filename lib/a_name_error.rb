@@ -1,3 +1,3 @@
 "hello world"
 
-"hello_World" = title
+hello_world = title
